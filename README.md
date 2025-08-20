@@ -45,3 +45,8 @@ A portfolio-friendly project to demonstrate:
 git clone https://github.com/Relis-lol/Riftbound.git
 cd Riftbound
 # Open index.html in your browser (double-click or serve locally)
+
+
+---
+
+**Developed by Relis – 2025**
